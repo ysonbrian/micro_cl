@@ -101,6 +101,33 @@ ul {
   margin-top: 20px;
 }
 
+/* Banner */
+.banner {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  margin: 20px 0 40px 0;
+}
+
+.banner__card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 184px;
+  height: 132px;
+  margin: 15px;
+}
+.banner__card div {
+  width: 125px;
+  height: 60px;
+  text-align: center;
+}
+
+.banner__card img {
+  margin-top: 20px;
+}
+
 /* Home cards */
 
 .home-cards {
